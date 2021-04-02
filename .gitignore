@@ -1,0 +1,4 @@
+.ipynb_checkpoint
+*.pptx
+.DS_Store
+.hdf5

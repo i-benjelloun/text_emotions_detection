@@ -1,0 +1,7 @@
+tensorflow==2.3.1
+contractions==0.0.48
+emoji==1.2.0
+numpy==1.19.2
+streamlit==0.79.0
+transformers==4.4.2
+Pillow==8.1.2
